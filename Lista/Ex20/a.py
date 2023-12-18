@@ -1,0 +1,3 @@
+# A Integração Contínua é a prática de combinar o código de vários desenvolvedores em um repositório compartilhado várias vezes ao dia, verificando a integridade do código constantemente por meio de testes automatizados.
+
+# Já a Entrega Contínua vai um passo adiante, automatizando todo o processo de deploy do código que passou pelos testes, garantindo que o software esteja sempre pronto para ser colocado em produção, reduzindo o tempo entre a finalização do desenvolvimento e a disponibilização para os usuários.
